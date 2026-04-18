@@ -73,6 +73,15 @@ The project simulates a real-world MIS Executive role where the focus is on main
 This project demonstrates my ability to work with real-world data, build MIS reports, and create dashboards that deliver clear and actionable insights. It reflects a strong foundation in Excel-based data analysis and reporting.
 
 ---
+## 📂 Dataset
+The dataset used in this project is a raw e-commerce dataset containing:
+- Orders data
+- Order details (products, quantity, profit)
+- Monthly sales targets
+
+The data was intentionally unclean and required preprocessing before analysis.
+
+👉 [Download Dataset](https://github.com/your-username/excel-mis-dashboard-project/blob/main/raw_data.xlsx)
 
 ## 🔗 Author
 

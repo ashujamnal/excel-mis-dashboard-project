@@ -54,7 +54,7 @@ The project simulates a real-world MIS Executive role where the focus is on main
 
 ## 📷 Dashboard Preview
 
-![Dashboard](dashboard.png)
+<img width="1366" height="768" alt="dashboard" src="https://github.com/user-attachments/assets/16b78597-0302-4b45-9f1d-50795e351945" />
 
 ---
 
